@@ -1,6 +1,6 @@
 
 # Click below for preview application #
-(https://portfolio-site-git-github-pages-hurado.vercel.app/)
+https://portfolio-site-git-github-pages-hurado.vercel.app/
 
 #
 
