@@ -1,5 +1,5 @@
 
-Click below for preview application #
+Click there for preview application =>
 https://portfolio-site-git-github-pages-hurado.vercel.app/
 
 #
