@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   projectMetadataArray.push({
     title: "Data Analysis App",
     desc: "Processes data in Python",
-    linkUrl: "/data_analysis",
+    linkUrl: "/data-analysis",
     image: "/data-analysis.jpg",
   });
   projectMetadataArray.push({
